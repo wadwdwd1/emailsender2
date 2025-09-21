@@ -1,0 +1,14 @@
+{
+  "name": "direct-email-sender",
+  "version": "1.0.0",
+  "description": "A script to send emails directly using MX records and nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.9.4"
+  }
+}
